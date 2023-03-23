@@ -24,6 +24,6 @@
     "declarationDir": "dist"
   },
   "include": [
-    "stories"
+    "src/stories"
   ]
 }
